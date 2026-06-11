@@ -1,0 +1,22 @@
+# Build output
+x64/
+x86/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+ipch/
+
+# NuGet packages (json.hpp는 third_party에 직접 포함)
+packages/
+
+# Runtime data
+members.json
