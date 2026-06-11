@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="json_crud.vcxproj" />
+  <Project Path="json_crud.vcxproj" Id="0a27e362-95de-4535-8f5f-e93f2b0e991d" />
+  <Project Path="..\json_crud_test\json_crud_test.vcxproj" Id="f1a2b3c4-d5e6-7890-abcd-ef1234567890" />
 </Solution>
